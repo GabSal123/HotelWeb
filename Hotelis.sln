@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelis", "Hotelis\Hotelis.csproj", "{EAFFD39A-F330-427E-BBE7-5C25E0305E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelis.Test", "Hotelis.Test\Hotelis.Test.csproj", "{13100A5E-DE8D-45A4-9729-74F5A1BA2D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFFD39A-F330-427E-BBE7-5C25E0305E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFFD39A-F330-427E-BBE7-5C25E0305E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFFD39A-F330-427E-BBE7-5C25E0305E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFFD39A-F330-427E-BBE7-5C25E0305E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13100A5E-DE8D-45A4-9729-74F5A1BA2D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13100A5E-DE8D-45A4-9729-74F5A1BA2D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13100A5E-DE8D-45A4-9729-74F5A1BA2D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13100A5E-DE8D-45A4-9729-74F5A1BA2D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88536EFD-79CF-49F2-A81D-B57DC78A542A}
+	EndGlobalSection
+EndGlobal
